@@ -1,0 +1,1 @@
+The Rev Hardware Offline Blocks Editor ( RHOBE ) is a block editor used for the programming of the rev hardware robots which can be aquired by connecting to the ip address of the robot's hub directly and downloading it, it does not have java coding capabilities but can be used by linux devices or chromebooks.
